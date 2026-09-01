@@ -1,0 +1,15 @@
+{
+  "buyer": "demo",
+  "wants": [
+    {"make": "Honda", "model": "Civic"},
+    {"make": "Toyota", "model": "Corolla"},
+    {"make": "Mazda", "model": "Mazda3"}
+  ],
+  "year_min": 2016,
+  "max_mileage": 90000,
+  "max_price": 16000,
+  "max_distance_mi": 60,
+  "transmission": "automatic",
+  "deal_breakers": ["salvage", "rebuilt", "flood", "no title"],
+  "nice_to_have": ["one owner", "service records", "adaptive cruise"]
+}

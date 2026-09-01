@@ -1,0 +1,13 @@
+{
+  "_comment": "Rough clean-retail baseline for a 0-year-old example at 0 miles, plus depreciation rates. Public-knowledge ballpark figures, not a pricing feed.",
+  "reference_year": 2026,
+  "depreciation_per_year": 900,
+  "depreciation_per_1k_miles": 90,
+  "models": {
+    "Honda Civic": 27000,
+    "Toyota Corolla": 25500,
+    "Mazda Mazda3": 26000,
+    "Honda Accord": 30000,
+    "Toyota Camry": 29500
+  }
+}
