@@ -1,3 +1,17 @@
 {
-  "targets": {}
+  "targets": {
+    "default": {
+      "resources": {
+        "runtimes": {
+          "carscout": {
+            "runtimeId": "carscout_carscout-sTPN146MKp",
+            "runtimeArn": "arn:aws:bedrock-agentcore:us-east-1:544795558101:runtime/carscout_carscout-sTPN146MKp",
+            "roleArn": "arn:aws:iam::544795558101:role/AgentCore-carscout-defaul-ApplicationAgentCarscoutR-xEwSQR3cC1Xc"
+          }
+        },
+        "stackName": "AgentCore-carscout-default",
+        "deployHash": "0038141e872668a6"
+      }
+    }
+  }
 }
